@@ -1,6 +1,6 @@
 # AI Product Practice
 
-Working prompt patterns for product work, by [Elle Fitz Anderson](https://andersonco.uk).
+Working prompt patterns for product work, by [Elle Anderson](https://andersonco.uk).
 
 Each pattern is written the way I actually use it: the prompt skeleton, the rules that make it trustworthy, and the documented failure modes, because a prompt without its failure modes is a demo, not a practice.
 

@@ -42,4 +42,4 @@ The model reads the pile; you keep the judgement. If a finding would change a ro
 
 ---
 
-Free to use and share, with attribution. Part of [AI Product Practice](../README.md) by [Elle Fitz Anderson](https://andersonco.uk).
+Free to use and share, with attribution. Part of [AI Product Practice](../README.md) by [Elle Anderson](https://andersonco.uk).
